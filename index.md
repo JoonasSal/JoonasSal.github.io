@@ -10,3 +10,9 @@ Tässä on lista asioista:
 - Asia 3
 
 Voit lisätä **lihavoitua tekstiä**, *kursivoitua tekstiä* ja paljon muuta Markdownin avulla.
+
+Voit lisätä koodinpätkiä:
+
+```python
+def hello():
+    print("Tervetuloa GitHub Pagesiin!")
