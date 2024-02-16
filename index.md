@@ -14,5 +14,10 @@ Voit lisätä **lihavoitua tekstiä**, *kursivoitua tekstiä* ja paljon muuta Ma
 Voit lisätä koodinpätkiä:
 
 ```python
-def hello():
-    print("Tervetuloa GitHub Pagesiin!")
+def greet():
+    print("Hello, world!")
+```
+
+Linkkejä:
+
+Tässä linkki GitHubiini [GitHub](https://github.com/JoonasSal?tab=repositories).
