@@ -9,7 +9,7 @@ Tässä on lista asioista:
 - Koira
 - Kissat koiria
 
-Voit lisätä **lihavoitua tekstiä**, *kursivoitua tekstiä* ja paljon muuta Markdownin avulla.
+Voit lisätä **lihavoitua tekstiä**, *kursivoitua tekstiä* ja paljon muuta Markdownin avulla. ~~Tekstin muotoilu on erittäin vaikeaa markdownin avulla.~~
 
 Voit lisätä koodinpätkiä:
 
@@ -17,6 +17,11 @@ Voit lisätä koodinpätkiä:
 def greet():
     print("Hello, world!")
 ```
+
+Voit lisätä lainauksen:
+
+> “Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.”
+**― Marcus Aurelius , Meditations**
 
 Linkkejä:
 
