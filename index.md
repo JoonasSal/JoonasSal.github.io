@@ -5,9 +5,9 @@ Tämä on ensimmäinen sivuni, joka on luotu käyttämällä Markdown-kieltä.
 ## Otsikko 2
 
 Tässä on lista asioista:
-- Asia 1
-- Asia 2
-- Asia 3
+- Kissa
+- Koira
+- Kissat koiria
 
 Voit lisätä **lihavoitua tekstiä**, *kursivoitua tekstiä* ja paljon muuta Markdownin avulla.
 
@@ -20,4 +20,6 @@ def greet():
 
 Linkkejä:
 
-Tässä linkki GitHubiini [GitHub](https://github.com/JoonasSal?tab=repositories).
+Tässä linkki GitHubiini [JoonasSal](https://github.com/JoonasSal?tab=repositories).
+Tässä linkki Github Flavored Markdown Specciin [Spec](https://github.github.com/gfm/).
+
